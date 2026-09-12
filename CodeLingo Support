@@ -1,0 +1,35 @@
+# CodeLingo Support
+
+CodeLingo is a macOS developer utility for translating English technical text, explaining compiler and runtime errors, and generating code comments.
+
+## Get help
+
+- Report a problem: [Open a support request](https://github.com/hudongsheng-debug/Xcode-Lingo/issues/new)
+- View existing reports: [Support requests](https://github.com/hudongsheng-debug/Xcode-Lingo/issues)
+- Privacy questions: see the [Privacy Policy](PRIVACY.md)
+
+When requesting support, include the macOS version, CodeLingo version, selected processing mode, expected result, and actual result. Remove API keys, access tokens, private source code, and personal information before posting.
+
+## Common questions
+
+### The Source Editor commands do not appear
+
+Open CodeLingo once. Then open System Settings > General > Login Items & Extensions > Xcode Source Editor, enable CodeLingo Source Editor, and restart Xcode.
+
+### Apple Intelligence is unavailable
+
+Confirm that the Mac and macOS version support Apple Intelligence, that Apple Intelligence is enabled in System Settings, and that its on-device models have finished downloading.
+
+### Cloud processing is unavailable
+
+Cloud processing is optional and disabled by default. Enable it in CodeLingo Settings and provide a compatible endpoint, model name, and API key.
+
+## Response time
+
+Support requests are normally reviewed within five business days.
+
+## Contact
+
+Use the public support-request form above. Do not include confidential information. Before App Store resubmission, add a monitored support email address here and publish this page as a publicly accessible webpage.
+
+CodeLingo is an independent developer tool. Xcode is a trademark of Apple Inc. CodeLingo is not affiliated with or endorsed by Apple Inc.
